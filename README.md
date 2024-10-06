@@ -11,6 +11,6 @@ Outside of work, I enjoy running, swimming, hiking, playing ping pong, gardening
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nis-6k)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👨🏻‍💻 I’m currently working on developing regression models;
+- 👨🏻‍💻 I’m currently working on developing regression models.
 - 💬 I’m actively seeking a Summer 2025 internship in data science!
-- 📫 How to reach me: nishantneu1@gmail.com;
+- 📫 How to reach me: nishantneu1@gmail.com.
